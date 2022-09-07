@@ -28,7 +28,7 @@ twitter_username: jdhunt
 github_username:  jdhuntx
 
 # Build settings
-remote_theme: architect
+theme: architect
 plugins:
   - jekyll-feed
 
