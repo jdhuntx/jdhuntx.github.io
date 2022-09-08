@@ -21,8 +21,22 @@
 
           <nav class="cover-navigation cover-navigation--primary">
             <ul class="navigation">
-              <li class="navigation__item"><a href="{{ site.baseurl }}/#blog" title="link to {{ site.title }} blog"
-                  class="blog-button">Blog</a></li>
+              <li class="navigation__item"><a href="{{ site.baseurl }}/about" title="link to {{ site.title }} about page"
+                  class="page-button">About</a></li>
+            </ul>
+          </nav>
+
+          <nav class="cover-navigation cover-navigation--primary">
+            <ul class="navigation">
+              <li class="navigation__item"><a href="{{ site.baseurl }}/races" title="link to {{ site.title }} races"
+                  class="page-button">Races</a></li>
+            </ul>
+          </nav>
+
+          <nav class="cover-navigation cover-navigation--primary">
+            <ul class="navigation">
+              <li class="navigation__item"><a href="{{ site.baseurl }}/projects" title="link to {{ site.title }} projects"
+                  class="page-button">Projects</a></li>
             </ul>
           </nav>
 
@@ -62,6 +76,17 @@
               </li>
               {% endif %}
 
+              {% if site.author.strava_username %}
+              <!-- LinkedIn -->
+              <li class="navigation__item">
+                <a href="https://www.strava.com/athletes/{{ site.author.strava_username }}"
+                  title="{{ site.author.strava_username }} on Strava" target="_blank">
+                  <i class="icon icon-social-strava"></i>
+                  <span class="label">Strava</span>
+                </a>
+              </li>
+              {% endif %}
+
               {% if site.author.github_username %}
               <!-- GitHub -->
               <li class="navigation__item">
@@ -69,6 +94,17 @@
                   title="{{ site.author.github_username }} on GitHub" target="_blank">
                   <i class="icon icon-social-github"></i>
                   <span class="label">GitHub</span>
+                </a>
+              </li>
+              {% endif %}
+
+              {% if site.author.instagram_username %}
+              <!-- Facebook -->
+              <li class="navigation__item">
+                <a href="http://fb.me/{{ site.author.instagram_username }}"
+                  title="{{ site.author.instagram_username }} on Instagram" target="_blank">
+                  <i class="icon icon-social-instagram"></i>
+                  <span class="label">Instagram</span>
                 </a>
               </li>
               {% endif %}
@@ -84,12 +120,12 @@
               {% endif %}
 
               <!-- RSS -->
-              <li class="navigation__item">
+              <!-- <li class="navigation__item">
                 <a href="{{ site.baseurl }}/feed.xml" title="Subscribe" target="_blank">
                   <i class="icon icon-rss"></i>
                   <span class="label">RSS</span>
                 </a>
-              </li>
+              </li> -->
 
             </ul>
           </nav>

@@ -1,6 +1,6 @@
 # Site settings
 title: Jonathan D. Hunt
-description: 'software engineer, runner, cyclist, hiker, mountaineer'
+description: 'software engineer, runner, cyclist, hiker'
 url: 'http://jdhunt.net'
 baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
@@ -13,6 +13,8 @@ author:
   twitter_username: jdhunt
   github_username:  jdhuntx
   linkedin_username:  jdhunt
+  strava_username: jdhunt
+  instagram_username: jdhuntx
 
 defaults:
   -

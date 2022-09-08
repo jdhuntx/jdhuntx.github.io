@@ -6,7 +6,7 @@ exclude: 'yes'
 
   $(document).ready(function () {
     {% if site.disable_landing_page != true %}
-    $('a.blog-button').click(function (e) {
+    $('a.page-button').click(function (e) {
       if ($('.panel-cover').hasClass('panel-cover--collapsed')) return
       currentWidth = $('.panel-cover').width()
       if (currentWidth < 960) {
@@ -32,7 +32,7 @@ exclude: 'yes'
       $('.btn-mobile-menu__icon').toggleClass('icon-list icon-x-circle animated fadeIn')
     })
 
-    $('.navigation-wrapper .blog-button').click(function () {
+    $('.navigation-wrapper .page-button').click(function () {
       $('.navigation-wrapper').toggleClass('visible')
       $('.btn-mobile-menu__icon').toggleClass('icon-list icon-x-circle animated fadeIn')
     })
