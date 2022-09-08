@@ -28,8 +28,8 @@ twitter_username: jdhunt
 github_username:  jdhuntx
 
 # Build settings
-#remote_theme: pages-themes/architect@v0.2.0
-theme: minima
+remote_theme: chrisrhymes/bulma-clean-theme
+#theme: minima
 plugins:
   - jekyll-feed
 
