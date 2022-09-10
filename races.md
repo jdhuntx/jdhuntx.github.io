@@ -3,12 +3,13 @@ layout: page
 title: Races
 permalink: /races/
 ---
-🏆 - Indicates a masters win of the race
+🥇 - Indicates a masters win of the race<br />
+🏆 - Indicates a personal record for the race distance
 
 <h4>2022</h4>
 <ul>
     <li><a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-535-1-277696">Yeti Chase 5k</a> - 20:38 (6:39 pace)</li>
-    <li><a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-536-2-278081">Ralston Creek Half Marathon</a> - 1:31:33 (6:59 pace) <img src="{{ site.baseurl }}/images/pr.jpg" /></li>
+    <li><a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-536-2-278081">Ralston Creek Half Marathon</a> - 1:31:33 (6:59 pace) 🏆</li>
     <li><a href="https://www.athlinks.com/event/20457/results/Event/1003533/Course/2188967/Bib/924">Salt Lake City Marathon</a> - 3:19:47 (7:38 pace)</li>
     <li><a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-540-2-284095">Mt. Evans Ascent</a> - 2:51:19 (11:49 pace)</li>
     <li><a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-562-1-286035">Superior Downhill Mile</a> - 5:32 (5:32 pace)</li>
@@ -19,7 +20,7 @@ permalink: /races/
 <ul>
     <li><a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-470-1-243137">Yeti Chase 5k</a> - 20:35 (6:38 pace)</li>
     <li><a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-474-1-244100">Three Creeks Half Marathon</a> – 1:32:31 (7:03 pace)</li>
-    <li><a href="https://results.sporthive.com/events/6810199152168940800/races/478387/bib/58">Estes Park Marathon</a> – 3:26:12 (7:52 pace) 🏆</li>
+    <li><a href="https://results.sporthive.com/events/6810199152168940800/races/478387/bib/58">Estes Park Marathon</a> – 3:26:12 (7:52 pace) 🥇</li>
     <li><a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-492-1-251443">Superior Downhill Mile</a> – 5:31 (5:31 pace) 🏆</li>
     <li><a href="https://boston.r.mikatiming.com/2021/?content=detail&fpid=search&pid=search&idp=9TGHS6FF145F2F&lang=EN_CAP&event=R&event_main_group=runner&search%5Bname%5D=Hunt&search%5Bfirstname%5D=Jonathan&search_event=R">Boston Marathon</a> - 3:07:33 (7:10 pace)</li>
 </ul>
