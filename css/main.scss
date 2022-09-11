@@ -62,3 +62,22 @@ ul {
   padding-left: 1.2em; 
   margin-left: 1.2em;
 }
+
+.company-separator {
+  width: 100%;
+}
+
+h4 {
+  font-weight: bold;
+  color: #073763;
+}
+
+.stint-details {
+  font-size: smaller;
+  margin-bottom: 1.2em;
+}
+div.stint-details ul, div.stint-details li {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
+}

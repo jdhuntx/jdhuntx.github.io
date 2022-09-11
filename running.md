@@ -1,8 +1,11 @@
 ---
 layout: page
-title: Races
-permalink: /races/
+title: Running
+permalink: /running/
 ---
+
+I started running in 2012 and have run a variety of distances from fun and fast 1-milers up to the marathon. Initialy I ran local Cincinnati area races (the <a href="https://runbeerseries.com/">Beer Series</a> will always have a special place in my heart, as the Hudy 14k was my first race). Then in 2014 I had my first out of town race, the Columbus Half Marathon. In 2015 I ran my first marathon - the <a href="https://flyingpigmarathon.com/">Cincinnati Flying Pig</a>, which led to a December, 2017 goal to complete a marathon in every state when my wife gifted me with a 50 states chalkboard / medal holder. Seeing as I like to run competitively in most of my races, this goal will mostly likely take quite some time to finish. I also keep a graphical list of completed races over at <a href="https://raceraves.com/jdhunt/">RaceRaves</a>.
+
 🥇 - Indicates a masters win of the race<br />
 🏆 - Indicates a personal record for the race distance
 
@@ -22,7 +25,7 @@ permalink: /races/
     <li><a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-474-1-244100">Three Creeks Half Marathon</a> – 1:32:31 (7:03 pace)</li>
     <li><a href="https://results.sporthive.com/events/6810199152168940800/races/478387/bib/58">Estes Park Marathon</a> – 3:26:12 (7:52 pace) 🥇</li>
     <li><a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-492-1-251443">Superior Downhill Mile</a> – 5:31 (5:31 pace) 🏆</li>
-    <li><a href="https://boston.r.mikatiming.com/2021/?content=detail&fpid=search&pid=search&idp=9TGHS6FF145F2F&lang=EN_CAP&event=R&event_main_group=runner&search%5Bname%5D=Hunt&search%5Bfirstname%5D=Jonathan&search_event=R">Boston Marathon</a> - 3:07:33 (7:10 pace)</li>
+    <li><a href="https://boston.r.mikatiming.com/2021/?content=detail&fpid=search&pid=search&idp=9TGHS6FF145F2F&lang=EN_CAP&event=R&event_main_group=runner&search%5Bname%5D=Hunt&search%5Bfirstname%5D=Jonathan&search_event=R">Boston Marathon</a> - 3:07:33 (7:10 pace) 🏆</li>
 </ul>
 
 <h4>2020</h4>
@@ -34,7 +37,7 @@ permalink: /races/
 <h4>2019</h4>
 <ul>
     <li><a href="http://results2.xacte.com/#/e/2243/listing/129173?tagcode=346&place=6#place_6th">Colorado Marathon</a> – 3:17:14 (7:31 pace)</li>
-    <li><a href="https://chicago-history.r.mikatiming.com/2019/?content=detail&fpid=search&pid=search&idp=999999107FA312000022CE73&lang=EN_CAP&event=MAR&lang=EN_CAP&search%5Bname%5D=Hunt&search%5Bfirstname%5D=Jonathan&search_event=MAR">Chicago Marathon</a> – 3:12:16 (7:20 pace) 🏆</li>
+    <li><a href="https://chicago-history.r.mikatiming.com/2019/?content=detail&fpid=search&pid=search&idp=999999107FA312000022CE73&lang=EN_CAP&event=MAR&lang=EN_CAP&search%5Bname%5D=Hunt&search%5Bfirstname%5D=Jonathan&search_event=MAR">Chicago Marathon</a> – 3:12:16 (7:20 pace)</li>
     <li><a href="https://events.hakuapp.com/custom_individual_results/?event_id=f7640ec8cd2f0858b2ad&tag_number=4331">Route 66 Marathon</a> – 3:24:43 (7:48 pace)</li>
 </ul>
 
@@ -93,8 +96,4 @@ permalink: /races/
 <h4>2012</h4>
 <ul>
     <li><a href="https://onlineraceresults.com/race/view_individual.php?make_printable=1&bib_num=1471&race_id=28204&type=result">Hudepohl 14k</a> – 1:08:25 (7:52 pace)</li>
-</ul>
-<h4>2006</h4>
-<ul>
-    <li>Mercy Heart Mini-Marathon 5k – 00:26:50 (8:38 pace)</li>
 </ul>

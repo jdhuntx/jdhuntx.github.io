@@ -13,12 +13,27 @@ table {
 	}
 
 	tr {
-		&:nth-child(even) td {
-			background: #eee;
-		}
+		// &:nth-child(even) td {
+		// 	background: #eee;
+		// }
 
 		td {
 			padding: 12px;
 		}
 	}
+}
+
+.client-table table, .client-table td, .client-table th {
+	border: 1px solid gray;
+	border-collapse: collapse;
+}
+
+table.client-table {
+	width: 100%;
+}
+.client-table th {
+	font-weight: bold;
+	width: 80px;
+	text-align: left;
+	padding-left: 1em;
 }
