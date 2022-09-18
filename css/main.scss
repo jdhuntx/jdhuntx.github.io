@@ -62,13 +62,15 @@ ul {
   padding-left: 1.2em; 
   margin-left: 1.2em;
 }
+#races-by-year ul {
+  margin-left: 0px;
+}
 
 .company-separator {
   width: 100%;
 }
 
-h4 {
-  font-weight: bold;
+h1, h2, h3, h4 {
   color: #073763;
 }
 

@@ -4,6 +4,10 @@ title: Projects
 permalink: /projects/
 ---
 
+<p>
+I consider myself very fortunate that I have had a rewarding and enjoyable career for over 20 years in the software industry. Not every project or job has been great fun or a fulfilling experience, but I feel I have learned something in almost every project I've worked on throughout my career. Even if that is something as simple as "I will try my best to avoid ever having to look at PHP code again 😁". My career has transitioned from consulting for clients big and small, to working as a full time employee for big Fortune 500 companies and small start-up <a href="https://en.wikipedia.org/wiki/Software_as_a_service">SaaS</a> companies. After many years of working in the Microsoft stack, in 2015 I began to work with more "open source" languages and frameworks such as Java and Spring, Scala, Go, Python, and React. In addition to becoming much more of a polyglot engineer, these last few years I have really developed my cloud skills - starting to develop solutions in AWS, GCP, and Kubernetes. Admittedly, when I am working in a language and am able to design and architect interesting software solutions, I really do enjoy the languages and frameworks that I am working in at the time. However, my favorite language right now is <a href="https://go.dev">Go</a>! Despite my tech stack preferences at the moment, I really am driven by the desire to create well-tested and useful software that delivers value for my company and our customers.
+</p>
+
 <h4>Blameless</h4>
 <div class="stint-details">
     <ul>
