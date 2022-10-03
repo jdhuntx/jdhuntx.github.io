@@ -7,7 +7,7 @@ permalink: /running/
 My journey into endurance sports started in 2012, when I laced up my running shoes for the first time. My first race involved competition, beer, and Skyline chili cheese coneys at the finish line - the <a href="https://hudy14krun.com/">2012 Hudepohl 14k Brewery Run</a>! Ever since that first race, I have been hooked. I've run many different distances all the way from 1 milers all the way up to the marathon (ultras... maybe one day). My first marathon was the <a href="https://flyingpigmarathon.com/">Cincinnati Flying Pig</a> in 2015, and in 2017 I came up with the "brilliant" idea to run a marathon in every state. I'm still far from completing that goal, but I'm enjoying the journey along the way! And of course now that I live in Colorado I have discovered a love for trail running, although I have yet to run a trail race. That will surely change soon, right? For those that are so inclined, you can follow me on <a href="https://www.strava.com/athletes/jdhunt">Strava</a>. 
 
 <h3>Completed States</h3>
-<div style="max-width:980px;margin:5px auto 10px auto;font-size:14px;"><div style="position:relative;padding: 0 0 70% 0;height:0;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="//www.fla-shop.com/visited-states/embed/?st=CO%2CIL%2CMA%2CNE%2COH%2COK%2CPA%2CUT%2CVA&vc=1ca032&uc=90cfea&hc=40bfa6&bc=ffffff&sl=on" frameborder="0" scrolling="no"></iframe></div></div>
+<div style="max-width:980px;margin:5px auto 10px auto;font-size:14px;"><div style="position:relative;padding: 0 0 70% 0;height:0;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="//www.fla-shop.com/visited-states/embed/?st=CO%2CIL%2CMA%2CMN%2CNE%2COH%2COK%2CPA%2CUT%2CVA&vc=1ca032&uc=90cfea&hc=40bfa6&bc=ffffff&sl=on" frameborder="0" scrolling="no"></iframe></div></div>
 
 <h3>Races</h3>
 🥇 - Indicates a masters win of the race<br />
@@ -22,6 +22,7 @@ My journey into endurance sports started in 2012, when I laced up my running sho
         <li>June 26: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-540-2-284095">Mt. Evans Ascent</a> - 2:51:19 (11:49 pace)</li>
         <li>July 4: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-562-1-286035">Superior Downhill Mile</a> - 5:32 (5:32 pace)</li>
         <li>August 7: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-409-2-22021">Evergreen Town Race 10k</a> - 38:49 (6:15 pace) 🏆</li>
+        <li>October 3: <a href="https://www.mtecresults.com/runner/show?race=14047&email=1&rid=5073">Twin Cities Marathon</a> - 3:06:50 (7:08 pace) 🏆</li>
     </ul>
     <h4>2021</h4>
     <ul>
@@ -29,7 +30,7 @@ My journey into endurance sports started in 2012, when I laced up my running sho
         <li>April 3: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-474-1-244100">Three Creeks Half Marathon</a> – 1:32:31 (7:03 pace)</li>
         <li>June 20: <a href="https://results.sporthive.com/events/6810199152168940800/races/478387/bib/58">Estes Park Marathon</a> – 3:26:12 (7:52 pace) 🥇</li>
         <li>July 4: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-492-1-251443">Superior Downhill Mile</a> – 5:31 (5:31 pace) 🏆</li>
-        <li>October 11: <a href="https://boston.r.mikatiming.com/2021/?content=detail&fpid=search&pid=search&idp=9TGHS6FF145F2F&lang=EN_CAP&event=R&event_main_group=runner&search%5Bname%5D=Hunt&search%5Bfirstname%5D=Jonathan&search_event=R">Boston Marathon</a> - 3:07:33 (7:10 pace) 🏆</li>
+        <li>October 11: <a href="https://boston.r.mikatiming.com/2021/?content=detail&fpid=search&pid=search&idp=9TGHS6FF145F2F&lang=EN_CAP&event=R&event_main_group=runner&search%5Bname%5D=Hunt&search%5Bfirstname%5D=Jonathan&search_event=R">Boston Marathon</a> - 3:07:33 (7:10 pace)</li>
     </ul>
     <h4>2020</h4>
     <ul>

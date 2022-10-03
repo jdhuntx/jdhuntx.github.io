@@ -77,7 +77,7 @@
               {% endif %}
 
               {% if site.author.strava_username %}
-              <!-- LinkedIn -->
+              <!-- Strava -->
               <li class="navigation__item">
                 <a href="https://www.strava.com/athletes/{{ site.author.strava_username }}"
                   title="{{ site.author.strava_username }} on Strava" target="_blank">
@@ -85,6 +85,13 @@
                   <span class="label">Strava</span>
                 </a>
               </li>
+              <!-- <li class="navigation__item">
+                <a href="https://www.strava.com/athletes/{{ site.author.strava_username }}"
+                  title="{{ site.author.strava_username }} on Strava" target="_blank">
+                  <img src="/images/strava.png" style="height:70%;"/>
+                  <span class="label">Strava</span>
+                </a>
+              </li> -->
               {% endif %}
 
               {% if site.author.github_username %}
