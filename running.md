@@ -23,6 +23,7 @@ My journey into endurance sports started in 2012, when I laced up my running sho
         <li>July 4: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-562-1-286035">Superior Downhill Mile</a> - 5:32 (5:32 pace)</li>
         <li>August 7: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-409-2-22021">Evergreen Town Race 10k</a> - 38:49 (6:15 pace) 🏆</li>
         <li>October 3: <a href="https://www.mtecresults.com/runner/show?race=14047&email=1&rid=5073">Twin Cities Marathon</a> - 3:06:50 (7:08 pace) 🏆</li>
+        <li>December 10: <a href="https://www.bolderboulder.com/colder-2022-race-results/">ColderBOLDER</a> - 20:07 (6:29 pace) 🏆</li>
     </ul>
     <h4>2021</h4>
     <ul>
@@ -50,7 +51,7 @@ My journey into endurance sports started in 2012, when I laced up my running sho
     </ul>
     <h4>2017</h4>
     <ul>
-        <li>April 8: <a href="https://runsignup.com/Race/Results/42319/IndividualResult/kKZz?resultSetId=76747#U18590563">Egghead 5k</a> – 20:15 (6:31 pace) 🏆</li>
+        <li>April 8: <a href="https://runsignup.com/Race/Results/42319/IndividualResult/kKZz?resultSetId=76747#U18590563">Egghead 5k</a> – 20:15 (6:31 pace)</li>
         <li>May 5: <a href="https://onlineraceresults.com/race/view_individual.php?make_printable=1&bib_num=47577&race_id=57924&type=result">Little Kings Mile</a> – 6:02 (6:02 pace)</li>
         <li>May 6: <a href="https://onlineraceresults.com/race/view_individual.php?make_printable=1&bib_num=37747&race_id=57927&type=result">Flying Pig 5k</a> – 20:40 (6:40 pace)</li>
         <li>May 6: <a href="https://onlineraceresults.com/race/view_individual.php?make_printable=1&bib_num=29196&race_id=57925&type=result">Flying Pig 10k</a> – 41:53 (6:46 pace)</li>
