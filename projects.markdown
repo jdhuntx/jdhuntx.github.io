@@ -11,7 +11,7 @@ I consider myself very fortunate that I have had a rewarding and enjoyable caree
 <h4>Blameless</h4>
 <div class="stint-details">
     <ul>
-        <li>September, 2021 - Present</li>
+        <li>September, 2021 - January, 2023</li>
         <li>Staff Software Engineer</li>
     </ul>
 </div>
@@ -29,7 +29,7 @@ I consider myself very fortunate that I have had a rewarding and enjoyable caree
     </tbody>
 </table>
 <p>
-Helped lead the team in technical direction and architecture towards moving our back-end services to be organization aware for our single-tenant to multi-tenant initiative. Researched providers and made recommendations for improving our identity management solution, helping to design a solution that was provider agnostic and more fault tolerant. Designed and led implementation of our authorization system using Go, Postgres, Keto, and Kubernetes. Led discovery and technical task creation for migrating our React based user interface from single-tenant service calls to multi-tenant service calls.
+Lead the team in technical direction and architecture towards moving our back-end services to be organization aware for our single-tenant to multi-tenant initiative. Created a multi-phased plan to migrate our database schemas and services for the multi-tenant initiative. Led other engineers on the steps and ramped them up on how they could help with the effort. Designed and implemented the database schema changes, migration scripts, and Go service changes for the multi-tenant initiative. Researched authentication providers and made recommendations for improving our identity management solution to enhance security and service to service communication. Designed and led implementation of a proof-of-concept authorization system to replace our existing system, using Go, Postgres, Keto, and Kubernetes.
 </p>
 
 <hr />
