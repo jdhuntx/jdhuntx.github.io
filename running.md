@@ -16,7 +16,7 @@ My journey into endurance sports started in 2012, when I laced up my running sho
 <div id="races-by-year">
     <h4>2023</h4>
     <ul>
-        <li>January 15: <a href="https://www.delmopro.com/results-site/houston-marathon">Houston Marathon</a> - 03:26:23 (7:53 pace)</li>
+        <li>January 15: <a href="https://www.delmopro.com/results-site/houston-marathon-results-details?hou_results_id=248296&hou_results_pid=RU2XC4BD">Houston Marathon</a> - 03:26:23 (7:53 pace)</li>
         <li>April 16: <a href="https://runsignup.com/Race/Results/80252/IndividualResult/dJtf?resultSetId=375155#U18590563">Horsetooth Half Marathon</a> - 01:30:40 (6:56 pace) 🏆</li>
     </ul>
     <h4>2022</h4>
