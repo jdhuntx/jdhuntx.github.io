@@ -17,11 +17,12 @@ My journey into endurance sports started in 2012, when I laced up my running sho
     <h4>2023</h4>
     <ul>
         <li>January 15: <a href="https://www.delmopro.com/results-site/houston-marathon">Houston Marathon</a> - 03:26:23 (7:53 pace)</li>
+        <li>April 16: <a href="https://runsignup.com/Race/Results/80252/IndividualResult/dJtf?resultSetId=375155#U18590563">Horsetooth Half Marathon</a> - 01:30:40 (6:56 pace) 🏆</li>
     </ul>
     <h4>2022</h4>
     <ul>
         <li>January 23: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-535-1-277696">Yeti Chase 5k</a> - 20:38 (6:39 pace)</li>
-        <li>February 20: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-536-2-278081">Ralston Creek Half Marathon</a> - 1:31:33 (6:59 pace) 🏆</li>
+        <li>February 20: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-536-2-278081">Ralston Creek Half Marathon</a> - 1:31:33 (6:59 pace)</li>
         <li>April 23: <a href="https://www.athlinks.com/event/20457/results/Event/1003533/Course/2188967/Bib/924">Salt Lake City Marathon</a> - 3:19:47 (7:38 pace)</li>
         <li>June 26: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-540-2-284095">Mt. Evans Ascent</a> - 2:51:19 (11:49 pace)</li>
         <li>July 4: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-562-1-286035">Superior Downhill Mile</a> - 5:32 (5:32 pace)</li>
