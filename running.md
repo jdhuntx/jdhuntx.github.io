@@ -18,6 +18,9 @@ My journey into endurance sports started in 2012, when I laced up my running sho
     <ul>
         <li>January 15: <a href="https://www.delmopro.com/results-site/houston-marathon-results-details?hou_results_id=248296&hou_results_pid=RU2XC4BD">Houston Marathon</a> - 03:26:23 (7:53 pace)</li>
         <li>April 16: <a href="https://runsignup.com/Race/Results/80252/IndividualResult/dJtf?resultSetId=375155#U18590563">Horsetooth Half Marathon</a> - 01:30:39 (6:56 pace) 🏆</li>
+        <li>June 25: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-540-2-284095">Mt. Evans Ascent</a> - 2:32:15 (10:36 pace) 🏆</li>
+        <li>July 4: <a href="https://my.raceresult.com/251703/results">Superior Downhill Mile</a> - 5:25 (5:25 pace) 🏆</li>
+        <li>July 9: <a href="https://www.athlinks.com/event/205238/results/Event/1049558/Course/2359813/Bib/472">Silver Rush 50</a> - 11:11:30 (13:52 pace)</li>
     </ul>
     <h4>2022</h4>
     <ul>
