@@ -29,7 +29,7 @@ I consider myself very fortunate that I have had a rewarding and enjoyable caree
     </tbody>
 </table>
 <p>
-Took ownership of several platform features, working with a cross-functional team to build out epics and stories. Developed features and enhancements with Go, Postgres, and AWS to deliver on these features. Addressed tech debt and introduced better practices to the existing code base to improve reliability and maintainability. Introduced more comprehensive automated tests, a better separation of concerns, and a database migration pattern.
+Took ownership of several platform features, working with a cross-functional team to build out epics and stories. Developed features and enhancements with Go, Postgres, and AWS to deliver on these features. Addressed tech debt and introduced better practices to the existing code base to improve reliability and maintainability. Introduced more comprehensive automated tests, a better separation of concerns, and a database migration pattern and helped the rest of the team understand these practices.
 </p>
 
 <hr />
