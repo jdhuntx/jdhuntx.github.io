@@ -21,6 +21,9 @@ My journey into endurance sports started in 2012, when I laced up my running sho
         <li>June 25: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-540-2-284095">Mt. Evans Ascent</a> - 2:32:15 (10:36 pace) 🏆</li>
         <li>July 4: <a href="https://my.raceresult.com/251703/results">Superior Downhill Mile</a> - 5:25 (5:25 pace) 🏆</li>
         <li>July 9: <a href="https://www.athlinks.com/event/205238/results/Event/1049558/Course/2359813/Bib/472">Silver Rush 50</a> - 11:11:30 (13:52 pace)</li>
+        <li>October 14: <a href="https://my.raceresult.com/266058/">Suffer Better 25k</a> - 2:37:37 (10:08 pace)</li>
+        <li>November 23: <a href="https://onlineraceresults.com/race/view_race.php?race_id=77270&re_NO=e.g.%2C+1946&re_FN=Jonathan&re_LN=Hunt&re_CITY=&re_STATE=&re_DIVISION=&submit_action=select_result&race_id=77270#results">Cincinnati Thanksgiving Day Race 10k</a> - 41:27 (6:41 pace)</li>
+        <li>December 3: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-632-1-41174">Superior Stocking Run 5k</a> - 21:45 (7:00 pace)</li>
     </ul>
     <h4>2022</h4>
     <ul>
