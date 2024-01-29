@@ -14,6 +14,10 @@ My journey into endurance sports started in 2012, when I laced up my running sho
 🏆 - Indicates a personal record for the race distance
 
 <div id="races-by-year">
+    <h4>2024</h4>
+    <ul>
+        <li>January 28: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-633-2-41545">Yeti Chase 10k</a> - 41:18 (6:38 pace)</li>
+    </ul>    
     <h4>2023</h4>
     <ul>
         <li>January 15: <a href="https://www.delmopro.com/results-site/houston-marathon-results-details?hou_results_id=248296&hou_results_pid=RU2XC4BD">Houston Marathon</a> - 03:26:23 (7:53 pace)</li>
