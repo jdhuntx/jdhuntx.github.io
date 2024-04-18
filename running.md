@@ -17,7 +17,8 @@ My journey into endurance sports started in 2012, when I laced up my running sho
     <h4>2024</h4>
     <ul>
         <li>January 28: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-633-2-41545">Yeti Chase 10k</a> - 41:18 (6:38 pace)</li>
-        <li>February 18: <a href="https://www.racetecresults.com/myresults.aspx?CId=16436&RId=634&EId=2&AId=42077">Ralston Creek Half Marathon</a> - 1:35:39 (7:18 pace)
+        <li>February 18: <a href="https://www.racetecresults.com/myresults.aspx?CId=16436&RId=634&EId=2&AId=42077">Ralston Creek Half Marathon</a> - 1:35:39 (7:18 pace)</li>
+        <li>April 14: <a href="https://raceday.enmotive.com/#/events/2024-platte-river-half-marathon-relay/registrants/24e2c721-4ef8-422a-9134-8d509c3ad79c">Platte River Half Marathon</a> - 1:33:08 (7:07 pace)</li>
     </ul>    
     <h4>2023</h4>
     <ul>
