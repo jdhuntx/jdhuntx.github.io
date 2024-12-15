@@ -20,6 +20,7 @@ My journey into endurance sports started in 2012, when I laced up my running sho
         <li>February 18: <a href="https://www.racetecresults.com/myresults.aspx?CId=16436&RId=634&EId=2&AId=42077">Ralston Creek Half Marathon</a> - 1:35:39 (7:18 pace)</li>
         <li>April 14: <a href="https://raceday.enmotive.com/#/events/2024-platte-river-half-marathon-relay/registrants/24e2c721-4ef8-422a-9134-8d509c3ad79c">Platte River Half Marathon</a> - 1:33:08 (7:07 pace)</li>
         <li>May 5: <a href="https://raceday.enmotive.com/#/events/2024-colorado-marathon/registrants/f00771b4-1e83-4f7f-8fbf-46a534cf7b3b">Colorado Marathon</a> - 3:09:46 (7:15 pace)</li>
+        <li>December 15: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-653-1-62101">Superior Stocking Run 5k</a> - 21:03 (6:47 pace)</li>
     </ul>
     <h4>2023</h4>
     <ul>
