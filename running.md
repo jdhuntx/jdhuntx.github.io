@@ -18,7 +18,7 @@ My journey into endurance sports started in 2012, when I laced up my running sho
     <ul>
         <li>January 26: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-654-2-62695">Yeti Chase 10k</a> - 51:16 (8:16 pace)</li>
         <li>February 16: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-5128-2-62992">Ralson Creek Half Marathon</a> - 1:39:32 (7:35 pace)</li>
-        <li>February 16: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-5128-4-62910">Racing Underground Winter Race Series</a> - 2:51:51<li>
+        <li>February 16: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-5128-4-62910">Racing Underground Winter Race Series</a> - 2:51:51</li>
     </ul>
     <h4>2024</h4>
     <ul>
