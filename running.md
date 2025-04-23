@@ -19,7 +19,7 @@ My journey into endurance sports started in 2012, when I laced up my running sho
         <li>January 26: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-654-2-62695">Yeti Chase 10k</a> - 51:16 (8:16 pace)</li>
         <li>February 16: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-5128-2-62992">Ralson Creek Half Marathon</a> - 1:39:32 (7:35 pace)</li>
         <li>February 16: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-5128-4-62910">Racing Underground Winter Race Series</a> - 2:51:51</li>
-        <li>April 21: <a href="https://results.baa.org/2025/?content=detail&fpid=list&pid=list&idp=9TGHS6FF1B02CC&lang=EN_CAP&event=R&event_main_group=runner&page=18&search%5Bsex%5D=M&search%5Bage_class%5D=3&search_event=R">Boston Marathon</a> - 3:11:26
+        <li>April 21: <a href="https://results.baa.org/2025/?content=detail&fpid=list&pid=list&idp=9TGHS6FF1B02CC&lang=EN_CAP&event=R&event_main_group=runner&page=18&search%5Bsex%5D=M&search%5Bage_class%5D=3&search_event=R">Boston Marathon</a> - 3:11:26</li>
     </ul>
     <h4>2024</h4>
     <ul>
