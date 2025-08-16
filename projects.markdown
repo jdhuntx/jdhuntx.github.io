@@ -8,10 +8,41 @@ permalink: /projects/
 I consider myself very fortunate that I have had a rewarding and enjoyable career for over 20 years in the software industry. Not every project or job has been great fun or a fulfilling experience, but I feel I have learned something in almost everything I've worked on throughout my career. My career has transitioned from consulting for clients big and small, to working as a full time employee for big Fortune 500 companies and small start-up <a href="https://en.wikipedia.org/wiki/Software_as_a_service">SaaS</a> companies. After many years of working in the Microsoft stack, in 2015 I began to work with more "open source" languages and frameworks such as Java and Spring, Scala, Go, Python, and React. In addition to becoming much more of a polyglot engineer, these last few years I have really developed my cloud skills - starting to develop solutions in AWS, GCP, and Kubernetes. I believe strongly that delivering on commitments and providing valuable software to customers is one of the best thing we can do as software engineers.
 </p>
 
+<h4>PrizePicks</h4>
+<div class="stint-details">
+    <ul>
+        <li>February, 2024 - Present</li>
+        <li>Senior Software Engineer</li>
+    </ul>
+</div>
+
+<table class="client-table">
+    <tbody>
+        <tr>
+            <th>Team</th>
+            <td>Scoring and Data Platform</td>
+        </tr>
+        <tr>
+            <th>Skills</th>
+            <td>Go, Postgres, Kubernetes, Pulsar</td>
+        </tr>
+    </tbody>
+</table>
+<p>
+* Lead engineer on one of the pods of the Live Scoring and Data Platform team
+* Helped lead onboarding of 4 new engineers as they joined on contributors on our tactical bug fixing and technical debt project. Presented overviews of our various microservices, helped them get up to speed with working on smaller tickets and bug fixes as they got familiar with our codebase
+* Project lead on the rewriting of our baseball scoring service. Migrated from the previous service written in Ruby / Roda into a brand new Golang microservice.
+* Project lead on a new basketball scoring service. Designed an architecture for scoring multiple leagues since this was our first microservice designed to be sport-specific with multi-league support. After a successful launch, we were able to decommission basketball from our previous monolith service
+* Contributing engineer on the migration from one scoring provider to another for our football scoring service. Led efforts in data migration and preparation before the start of the NFL season.
+* Led several projects on sports-specific service rewrites - breaking scoring and scheduling code out of a monolith and into sport-specific micro-services
+* Designed and implemented a solution that drastically improved the performance of one of our key customer-facing endpoints. Response times went from sometimes taking several seconds down to 4 milliseconds. This greatly improved the user experience, where we would sometimes get a lot of negative comments on social media down to very rarely getting negative comments.
+* Helped iterate on a cross-platform and multi-team local development solution so that scoring services could be run on local machines
+</p>
+
 <h4>Strake</h4>
 <div class="stint-details">
     <ul>
-        <li>February, 2023 - Present</li>
+        <li>February, 2023 - January, 2024</li>
         <li>Platform Engineer</li>
     </ul>
 </div>
