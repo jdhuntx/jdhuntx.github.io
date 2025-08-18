@@ -28,16 +28,15 @@ I consider myself very fortunate that I have had a rewarding and enjoyable caree
         </tr>
     </tbody>
 </table>
-<p>
-* Lead engineer on one of the pods of the Live Scoring and Data Platform team
-* Helped lead onboarding of 4 new engineers as they joined on contributors on our tactical bug fixing and technical debt project. Presented overviews of our various microservices, helped them get up to speed with working on smaller tickets and bug fixes as they got familiar with our codebase
-* Project lead on the rewriting of our baseball scoring service. Migrated from the previous service written in Ruby / Roda into a brand new Golang microservice.
-* Project lead on a new basketball scoring service. Designed an architecture for scoring multiple leagues since this was our first microservice designed to be sport-specific with multi-league support. After a successful launch, we were able to decommission basketball from our previous monolith service
-* Contributing engineer on the migration from one scoring provider to another for our football scoring service. Led efforts in data migration and preparation before the start of the NFL season.
-* Led several projects on sports-specific service rewrites - breaking scoring and scheduling code out of a monolith and into sport-specific micro-services
-* Designed and implemented a solution that drastically improved the performance of one of our key customer-facing endpoints. Response times went from sometimes taking several seconds down to 4 milliseconds. This greatly improved the user experience, where we would sometimes get a lot of negative comments on social media down to very rarely getting negative comments.
-* Helped iterate on a cross-platform and multi-team local development solution so that scoring services could be run on local machines
-</p>
+<ul>
+<li>Lead engineer on one of the pods of the Live Scoring and Data Platform team.<li>
+<li>Helped lead the onboarding of 4 new engineers as they joined on their first project - our tactical short-cycled project for bug fixing and technical debt. Presented overviews of our various microservices and processes, and helped them get up to speed with working on smaller tickets and bug fixes to get familiar with our codebase.</li>
+<li>Project lead on the rewriting of our baseball scoring service. Migrated from the previous service written in Ruby / Roda into a brand new Golang microservice.</li>
+<li>Project lead on a new basketball scoring service. Designed an architecture for scoring multiple leagues since this was our first microservice designed to be sport-specific with multi-league support. After a successful launch, we were able to decommission basketball from our monolith scoring service.</li>
+<li>Contributing engineer on the migration from one scoring provider to another for our football scoring service. Led efforts in data migration and preparation before the start of the NFL season.</li>
+<li>Designed and implemented a solution that drastically improved the performance of one of our key customer-facing endpoints. Response times went from sometimes taking several seconds down to 4 milliseconds. This greatly improved the user experience, where we would sometimes get a lot of negative comments on social media down to very rarely getting negative comments.</li>
+<li>Collaberated on a cross-platform and multi-team local development solution by integrating scoring services so they could run on local machines by teams not as familiar with our services.</li>
+</ul>
 
 <h4>Strake</h4>
 <div class="stint-details">
