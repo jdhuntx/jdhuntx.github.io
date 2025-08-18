@@ -29,7 +29,7 @@ I consider myself very fortunate that I have had a rewarding and enjoyable caree
     </tbody>
 </table>
 <ul>
-<li>Lead engineer on one of the pods of the Live Scoring and Data Platform team.<li>
+<li>Lead engineer on one of the pods of the Live Scoring and Data Platform team.</li>
 <li>Helped lead the onboarding of 4 new engineers as they joined on their first project - our tactical short-cycled project for bug fixing and technical debt. Presented overviews of our various microservices and processes, and helped them get up to speed with working on smaller tickets and bug fixes to get familiar with our codebase.</li>
 <li>Project lead on the rewriting of our baseball scoring service. Migrated from the previous service written in Ruby / Roda into a brand new Golang microservice.</li>
 <li>Project lead on a new basketball scoring service. Designed an architecture for scoring multiple leagues since this was our first microservice designed to be sport-specific with multi-league support. After a successful launch, we were able to decommission basketball from our monolith scoring service.</li>
