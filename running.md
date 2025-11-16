@@ -23,6 +23,7 @@ My journey into endurance sports started in 2012, when I laced up my running sho
         <li>May 26: <a href="https://www.bolderboulder.com/races/2025-bolderboulder/?search=Jonathan+Hunt&age=&gender=">BOLDERBoulder 10k</a> - 42:22 (6:50 pace)</li>
         <li>June 22: <a href="https://runsignup.com/Race/Results/145382/IndividualResult/Ttqt?resultSetId=559337#U18590563">Sunset Trail Running Festival 28k</a> - 2:42:27 (9:20 pace) 🥇</li>
         <li>October 4th: <a href="https://ultrasignup.com/results_event.aspx?did=124925">Above the Clouds 50k</a> - 5:48:54 (11:13 pace)</li>
+        <li>November 15th: <a href="https://sodisp.com/events/pumpkin-pie-5k10k-25/5k/results/e_1202">Pumpkin Pie 5k</a> - 19:27 (6:17 pace) 🏆</li>
     </ul>
     <h4>2024</h4>
     <ul>
