@@ -54,14 +54,14 @@ My journey into endurance sports started in 2012, when I laced up my running sho
         <li>July 4: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-562-1-286035">Superior Downhill Mile</a> - 5:32 (5:32 pace)</li>
         <li>August 7: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-409-2-22021">Evergreen Town Race 10k</a> - 38:49 (6:15 pace) 🏆</li>
         <li>October 3: <a href="https://www.mtecresults.com/runner/show?race=14047&email=1&rid=5073">Twin Cities Marathon</a> - 3:06:50 (7:08 pace) 🏆</li>
-        <li>December 10: <a href="https://www.bolderboulder.com/colder-2022-race-results/">ColderBOLDER</a> - 20:07 (6:29 pace) 🏆</li>
+        <li>December 10: <a href="https://www.bolderboulder.com/colder-2022-race-results/">ColderBOLDER</a> - 20:07 (6:29 pace)</li>
     </ul>
     <h4>2021</h4>
     <ul>
         <li>January 24: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-470-1-243137">Yeti Chase 5k</a> - 20:35 (6:38 pace)</li>
         <li>April 3: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-474-1-244100">Three Creeks Half Marathon</a> – 1:32:31 (7:03 pace)</li>
         <li>June 20: <a href="https://results.sporthive.com/events/6810199152168940800/races/478387/bib/58">Estes Park Marathon</a> – 3:26:12 (7:52 pace) 🥇</li>
-        <li>July 4: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-492-1-251443">Superior Downhill Mile</a> – 5:31 (5:31 pace) 🏆</li>
+        <li>July 4: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-492-1-251443">Superior Downhill Mile</a> – 5:31 (5:31 pace)<li>
         <li>October 11: <a href="https://boston.r.mikatiming.com/2021/?content=detail&fpid=search&pid=search&idp=9TGHS6FF145F2F&lang=EN_CAP&event=R&event_main_group=runner&search%5Bname%5D=Hunt&search%5Bfirstname%5D=Jonathan&search_event=R">Boston Marathon</a> - 3:07:33 (7:10 pace)</li>
     </ul>
     <h4>2020</h4>
