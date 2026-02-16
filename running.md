@@ -4,16 +4,20 @@ title: Running
 permalink: /running/
 ---
 
-My journey into endurance sports started in 2012, when I laced up my running shoes for the first time. My first race involved competition, beer, and Skyline chili cheese coneys at the finish line - the <a href="https://hudy14krun.com/">2012 Hudepohl 14k Brewery Run</a>! Ever since that first race, I have been hooked. I've run many different distances all the way from 1 milers all the way up to the marathon (ultras... maybe one day). My first marathon was the <a href="https://flyingpigmarathon.com/">Cincinnati Flying Pig</a> in 2015, and in 2017 I came up with the "brilliant" idea to run a marathon in every state. I'm still far from completing that goal, but I'm enjoying the journey along the way! And of course now that I live in Colorado I have discovered a love for trail running, although I have yet to run a trail race. That will surely change soon, right? For those that are so inclined, you can follow me on <a href="https://www.strava.com/athletes/jdhunt">Strava</a>. 
+My journey into endurance sports started in 2012, when I laced up my running shoes for the first time. My first race involved competition, beer, and Skyline chili cheese coneys at the finish line - the <a href="https://hudy14krun.com/">2012 Hudepohl 14k Brewery Run</a>! Ever since that first race, I have been hooked. I've run many different distances all the way from 1 milers all the way up to a 50 mile ultra. My first marathon was the <a href="https://flyingpigmarathon.com/">Cincinnati Flying Pig</a> in 2015, and in 2017 I came up with the "brilliant" idea to run a marathon in every state. I'm still far from completing that goal, but I'm enjoying the journey along the way! And of course now that I live in Colorado I have discovered a love for trail running - I've even won the masters division in a 28k! For those that are so inclined, you can follow me on <a href="https://www.strava.com/athletes/jdhunt">Strava</a>. 
 
 <h3>Completed States</h3>
-<div style="max-width:980px;margin:5px auto 10px auto;font-size:14px;"><div style="position:relative;padding: 0 0 70% 0;height:0;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="//www.fla-shop.com/visited-states/embed/?st=CO%2CIL%2CMA%2CMN%2CNE%2COH%2COK%2CPA%2CTX%2CUT%2CVA&vc=1ca032&uc=90cfea&hc=40bfa6&bc=ffffff&sl=on" frameborder="0" scrolling="no"></iframe></div>
+<div style="max-width:980px;margin:5px auto 10px auto;font-size:14px;"><div style="position:relative;padding: 0 0 70% 0;height:0;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.fla-shop.com/visited-states/?st=AZ%2CCO%2CIL%2CMA%2CMN%2CNE%2COH%2COK%2CPA%2CTX%2CUT%2CVA&vc=1ca032&uc=90cfea&hc=40bfa6&bc=ffffff&sl=on" frameborder="0" scrolling="no"></iframe></div>
 
 <h3>Races</h3>
 🥇 - Indicates a masters win of the race<br />
 🏆 - Indicates a personal record for the race distance
 
 <div id="races-by-year">
+    <h4>2026</h4>
+    <ul>
+        <li>February 15: <a href="https://live.chronotrack.com/event/84977/results/entry/75929597">Lost Dutchman Marathon</a> - 3:15:13 (7:27 pace)</li>
+    </ul>
     <h4>2025</h4>
     <ul>
         <li>January 26: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-654-2-62695">Yeti Chase 10k</a> - 51:16 (8:16 pace)</li>
