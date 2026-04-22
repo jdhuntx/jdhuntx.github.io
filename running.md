@@ -11,19 +11,20 @@ My journey into endurance sports started in 2012, when I laced up my running sho
 
 <h3>Races</h3>
 🥇 - Indicates a masters win of the race<br />
-🏆 - Indicates a personal record for the race distance
+🏆 - Indicates a personal record for the race distance<br />
+🦄 - Indicates a Boston Qualifer
 
 <div id="races-by-year">
     <h4>2026</h4>
     <ul>
-        <li>February 15: <a href="https://live.chronotrack.com/event/84977/results/entry/75929597">Lost Dutchman Marathon</a> - 3:15:13 (7:27 pace)</li>
+        <li>February 15: <a href="https://live.chronotrack.com/event/84977/results/entry/75929597">Lost Dutchman Marathon</a> - 3:15:13 (7:27 pace) 🦄</li>
     </ul>
     <h4>2025</h4>
     <ul>
         <li>January 26: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-654-2-62695">Yeti Chase 10k</a> - 51:16 (8:16 pace)</li>
         <li>February 16: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-5128-2-62992">Ralson Creek Half Marathon</a> - 1:39:32 (7:35 pace)</li>
         <li>February 16: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-5128-4-62910">Racing Underground Winter Race Series</a> - 2:51:51</li>
-        <li>April 21: <a href="https://results.baa.org/2025/?content=detail&fpid=list&pid=list&idp=9TGHS6FF1B02CC&lang=EN_CAP&event=R&event_main_group=runner&page=18&search%5Bsex%5D=M&search%5Bage_class%5D=3&search_event=R">Boston Marathon</a> - 3:11:26 (7:18 pace)</li>
+        <li>April 21: <a href="https://results.baa.org/2025/?content=detail&fpid=list&pid=list&idp=9TGHS6FF1B02CC&lang=EN_CAP&event=R&event_main_group=runner&page=18&search%5Bsex%5D=M&search%5Bage_class%5D=3&search_event=R">Boston Marathon</a> - 3:11:26 (7:18 pace) 🦄</li>
         <li>May 26: <a href="https://www.bolderboulder.com/races/2025-bolderboulder/?search=Jonathan+Hunt&age=&gender=">BOLDERBoulder 10k</a> - 42:22 (6:50 pace)</li>
         <li>June 22: <a href="https://runsignup.com/Race/Results/145382/IndividualResult/Ttqt?resultSetId=559337#U18590563">Sunset Trail Running Festival 28k</a> - 2:42:27 (9:20 pace) 🥇</li>
         <li>October 4th: <a href="https://ultrasignup.com/results_event.aspx?did=124925">Above the Clouds 50k</a> - 5:48:54 (11:13 pace)</li>
@@ -35,7 +36,7 @@ My journey into endurance sports started in 2012, when I laced up my running sho
         <li>February 18: <a href="https://www.racetecresults.com/myresults.aspx?CId=16436&RId=634&EId=2&AId=42077">Ralston Creek Half Marathon</a> - 1:35:39 (7:18 pace)</li>
         <li>February 16: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-634-4-42406">Racing Underground Winter Race Series</a> - 2:38:36</li>
         <li>April 14: <a href="https://raceday.enmotive.com/#/events/2024-platte-river-half-marathon-relay/registrants/24e2c721-4ef8-422a-9134-8d509c3ad79c">Platte River Half Marathon</a> - 1:33:08 (7:07 pace)</li>
-        <li>May 5: <a href="https://raceday.enmotive.com/#/events/2024-colorado-marathon/registrants/f00771b4-1e83-4f7f-8fbf-46a534cf7b3b">Colorado Marathon</a> - 3:09:46 (7:15 pace)</li>
+        <li>May 5: <a href="https://raceday.enmotive.com/#/events/2024-colorado-marathon/registrants/f00771b4-1e83-4f7f-8fbf-46a534cf7b3b">Colorado Marathon</a> - 3:09:46 (7:15 pace) 🦄</li>
         <li>December 15: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-653-1-62101">Superior Stocking Run 5k</a> - 21:03 (6:47 pace)</li>
     </ul>
     <h4>2023</h4>
@@ -53,11 +54,11 @@ My journey into endurance sports started in 2012, when I laced up my running sho
     <ul>
         <li>January 23: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-535-1-277696">Yeti Chase 5k</a> - 20:38 (6:39 pace)</li>
         <li>February 20: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-536-2-278081">Ralston Creek Half Marathon</a> - 1:31:33 (6:59 pace)</li>
-        <li>April 23: <a href="https://www.athlinks.com/event/20457/results/Event/1003533/Course/2188967/Bib/924">Salt Lake City Marathon</a> - 3:19:47 (7:38 pace)</li>
+        <li>April 23: <a href="https://www.athlinks.com/event/20457/results/Event/1003533/Course/2188967/Bib/924">Salt Lake City Marathon</a> - 3:19:47 (7:38 pace) 🦄</li>
         <li>June 26: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-540-2-284095">Mt. Evans Ascent</a> - 2:51:19 (11:49 pace)</li>
         <li>July 4: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-562-1-286035">Superior Downhill Mile</a> - 5:32 (5:32 pace)</li>
         <li>August 7: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-409-2-22021">Evergreen Town Race 10k</a> - 38:49 (6:15 pace) 🏆</li>
-        <li>October 3: <a href="https://www.mtecresults.com/runner/show?race=14047&email=1&rid=5073">Twin Cities Marathon</a> - 3:06:50 (7:08 pace) 🏆</li>
+        <li>October 3: <a href="https://www.mtecresults.com/runner/show?race=14047&email=1&rid=5073">Twin Cities Marathon</a> - 3:06:50 (7:08 pace) 🏆 🦄</li>
         <li>December 10: <a href="https://www.bolderboulder.com/colder-2022-race-results/">ColderBOLDER</a> - 20:07 (6:29 pace)</li>
     </ul>
     <h4>2021</h4>
@@ -66,7 +67,7 @@ My journey into endurance sports started in 2012, when I laced up my running sho
         <li>April 3: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-474-1-244100">Three Creeks Half Marathon</a> – 1:32:31 (7:03 pace)</li>
         <li>June 20: <a href="https://results.sporthive.com/events/6810199152168940800/races/478387/bib/58">Estes Park Marathon</a> – 3:26:12 (7:52 pace) 🥇</li>
         <li>July 4: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-492-1-251443">Superior Downhill Mile</a> – 5:31 (5:31 pace)</li>
-        <li>October 11: <a href="https://boston.r.mikatiming.com/2021/?content=detail&fpid=search&pid=search&idp=9TGHS6FF145F2F&lang=EN_CAP&event=R&event_main_group=runner&search%5Bname%5D=Hunt&search%5Bfirstname%5D=Jonathan&search_event=R">Boston Marathon</a> - 3:07:33 (7:10 pace)</li>
+        <li>October 11: <a href="https://boston.r.mikatiming.com/2021/?content=detail&fpid=search&pid=search&idp=9TGHS6FF145F2F&lang=EN_CAP&event=R&event_main_group=runner&search%5Bname%5D=Hunt&search%5Bfirstname%5D=Jonathan&search_event=R">Boston Marathon</a> - 3:07:33 (7:10 pace) 🦄</li>
     </ul>
     <h4>2020</h4>
     <ul>
@@ -75,14 +76,14 @@ My journey into endurance sports started in 2012, when I laced up my running sho
     </ul>
     <h4>2019</h4>
     <ul>
-        <li>May 5: <a href="http://results2.xacte.com/#/e/2243/listing/129173?tagcode=346&place=6#place_6th">Colorado Marathon</a> – 3:17:14 (7:31 pace)</li>
-        <li>October 13: <a href="https://chicago-history.r.mikatiming.com/2019/?content=detail&fpid=search&pid=search&idp=999999107FA312000022CE73&lang=EN_CAP&event=MAR&lang=EN_CAP&search%5Bname%5D=Hunt&search%5Bfirstname%5D=Jonathan&search_event=MAR">Chicago Marathon</a> – 3:12:16 (7:20 pace)</li>
+        <li>May 5: <a href="http://results2.xacte.com/#/e/2243/listing/129173?tagcode=346&place=6#place_6th">Colorado Marathon</a> – 3:17:14 (7:31 pace) 🦄</li>
+        <li>October 13: <a href="https://chicago-history.r.mikatiming.com/2019/?content=detail&fpid=search&pid=search&idp=999999107FA312000022CE73&lang=EN_CAP&event=MAR&lang=EN_CAP&search%5Bname%5D=Hunt&search%5Bfirstname%5D=Jonathan&search_event=MAR">Chicago Marathon</a> – 3:12:16 (7:20 pace) 🦄</li>
         <li>November 24: <a href="https://events.hakuapp.com/custom_individual_results/?event_id=f7640ec8cd2f0858b2ad&tag_number=4331">Route 66 Marathon</a> – 3:24:43 (7:48 pace)</li>
     </ul>
     <h4>2018</h4>
     <ul>
         <li>May 6: <a href="https://onlineraceresults.com/event/view_event.php?event_id=22127&submit_action=hop&bib=2221">Flying Pig Marathon</a> – 3:18:29 (7:35 pace)</li>
-        <li>November 18: <a href="http://live.xacte.com/templates/philadelphiamarathon.com/for-runners/?id=2209&tagcode=944">Philadelphia Marathon</a> – 3:17:04 (7:30 pace)</li>
+        <li>November 18: <a href="http://live.xacte.com/templates/philadelphiamarathon.com/for-runners/?id=2209&tagcode=944">Philadelphia Marathon</a> – 3:17:04 (7:30 pace) 🦄</li>
     </ul>
     <h4>2017</h4>
     <ul>
