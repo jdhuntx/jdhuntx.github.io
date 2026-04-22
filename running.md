@@ -65,7 +65,7 @@ My journey into endurance sports started in 2012, when I laced up my running sho
         <li>January 24: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-470-1-243137">Yeti Chase 5k</a> - 20:35 (6:38 pace)</li>
         <li>April 3: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-474-1-244100">Three Creeks Half Marathon</a> – 1:32:31 (7:03 pace)</li>
         <li>June 20: <a href="https://results.sporthive.com/events/6810199152168940800/races/478387/bib/58">Estes Park Marathon</a> – 3:26:12 (7:52 pace) 🥇</li>
-        <li>July 4: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-492-1-251443">Superior Downhill Mile</a> – 5:31 (5:31 pace)<li>
+        <li>July 4: <a href="https://racingunderground.racetecresults.com/myresults.aspx?uid=16436-492-1-251443">Superior Downhill Mile</a> – 5:31 (5:31 pace)</li>
         <li>October 11: <a href="https://boston.r.mikatiming.com/2021/?content=detail&fpid=search&pid=search&idp=9TGHS6FF145F2F&lang=EN_CAP&event=R&event_main_group=runner&search%5Bname%5D=Hunt&search%5Bfirstname%5D=Jonathan&search_event=R">Boston Marathon</a> - 3:07:33 (7:10 pace)</li>
     </ul>
     <h4>2020</h4>
@@ -122,8 +122,9 @@ My journey into endurance sports started in 2012, when I laced up my running sho
     <h4>2013</h4>
     <ul>
         <li>April 20: <a href="http://speedy-feet.com/races/2013/0420/rat10r_ov.htm">Cincinnati Rat Race 10k</a> – 44:40 (7:15 pace)</li>
-        <li>May 5: <a href="https://onlineraceresults.com/race/view_race.php?race_id=32008&submit_action=select_result&re_NO=13545">Flying Pig Half Marathon – 1:45:14</a> (8:02 pace)</li>
-        <li>September 7: <a href="https://www.strava.com/activities/1182350986">Anderson Run to Remember 5k</a> – 22:57 (7:24 pace)</li>September 21: <a href="https://www.onlineraceresults.com/race/view_individual.php?make_printable=1&bib_num=992&race_id=34044&type=result">Hudepohl 14k</a> – 1:06:15 (7:37 pace)</li>
+        <li>May 5: <a href="https://onlineraceresults.com/race/view_race.php?race_id=32008&submit_action=select_result&re_NO=13545">Flying Pig Half Marathon</a> – 1:45:14 (8:02 pace)</li>
+        <li>September 7: <a href="https://www.strava.com/activities/1182350986">Anderson Run to Remember 5k</a> – 22:57 (7:24 pace)</li>
+        <li>September 21: <a href="https://www.onlineraceresults.com/race/view_individual.php?make_printable=1&bib_num=992&race_id=34044&type=result">Hudepohl 14k</a> – 1:06:15 (7:37 pace)</li>
     </ul>
     <h4>2012</h4>
     <ul>
