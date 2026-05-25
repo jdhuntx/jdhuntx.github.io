@@ -18,6 +18,8 @@ My journey into endurance sports started in 2012, when I laced up my running sho
     <h4>2026</h4>
     <ul>
         <li>February 15: <a href="https://live.chronotrack.com/event/84977/results/entry/75929597">Lost Dutchman Marathon</a> - 3:15:13 (7:27 pace) 🦄</li>
+        <li>May 2: <a href="https://runsignup.com/Race/Results/55687/IndividualResult/RRBQB?resultSetId=647851#U18590563">CollaBEERation 5k</a> - 20:02 (6:28 pace)</li>
+        <li>May 2: <a href="https://www.bolderboulder.com/races/2026-bolderboulder/?search=Jonathan+Hunt&age=&gender=">BOLDERBoulder 10k</a> - 43:37 (7:02 pace)</li>
     </ul>
     <h4>2025</h4>
     <ul>
